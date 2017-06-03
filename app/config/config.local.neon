@@ -1,0 +1,7 @@
+parameters:
+	database:
+		host: localhost
+		username: root
+		password: 
+		database: sandbox
+		lazy: true
